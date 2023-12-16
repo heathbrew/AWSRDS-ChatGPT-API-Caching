@@ -61,7 +61,8 @@ This approach integrates AWS RDS with Python PyMySQL to manage ChatGPT API usage
 - Utilizes a text similarity search algorithm for relevant answers.
 - Continuously updates and stores data in a CSV file.
 
-### Libraries Used
+### Tech Stack Used
+- AWS RDS
 - OpenAI API
 - Keras
 - Pandas
