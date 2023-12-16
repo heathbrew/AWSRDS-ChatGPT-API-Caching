@@ -5,6 +5,9 @@
 ### Introduction
 In an era where AI chatbots, especially those powered by OpenAI's ChatGPT, are revolutionizing various industries, managing API calls efficiently is paramount. This project aims to significantly reduce ChatGPT API costs by up to 80% through a Python-based solution that incorporates AWS RDS and PyMySQL, enhancing performance and reducing operational expenses.
 
+<img width="1265" alt="image" src="https://github.com/heathbrew/AWSRDS-ChatGPT-API-Caching/assets/55629425/2b9ebc8d-3ebf-43e8-b1f8-44fd051c6c14">
+
+
 ### Description
 This Python script powers an AI chatbot capable of classifying users' MBTI personality types and learning styles. It harnesses OpenAI's GPT-3.5 model for response generation and employs a text similarity search algorithm to provide relevant answers from a pre-stored AWS RDS Table  file of question-answer pairs. The chatbot's knowledge base is continually updated and stored in the same AWS RDS Table.
 
